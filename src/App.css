@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background: linear-gradient(110deg, #029aff 60%, #ffed4b 60%);
+}
+.list{
+  width: 420px;;
+  margin-left:33%;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
